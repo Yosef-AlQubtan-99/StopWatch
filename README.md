@@ -15,3 +15,4 @@ This project could be enhanced by adding ALARM clock to predefined pin C6 (in CL
 
 NOTE : Time on Proteus is not the same time as the machine so tick time and CTC time is modified to suite my version of proteus
        one second in this programe is OCR value =250 , Local_u16Counter "in if condition in IncSec & DecSec" = 4000
+       Tick time= 1usec
